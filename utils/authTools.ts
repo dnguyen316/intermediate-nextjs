@@ -3,7 +3,7 @@ import jwt from 'jsonwebtoken'
 import { db } from '@/db/db'
 import { eq } from 'drizzle-orm'
 import { users } from '@/db/schema'
-import bcrypt from 'bcrypt'
+import bcrypt from 'bcryptjs'
 
 const SECRET = 'use_an_ENV_VAR'
 

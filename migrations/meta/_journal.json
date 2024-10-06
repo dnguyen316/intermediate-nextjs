@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1728116166067,
+      "tag": "0000_majestic_naoko",
+      "breakpoints": true
+    }
+  ]
+}
